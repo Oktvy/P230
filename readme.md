@@ -1,6 +1,6 @@
 # HowtoReadMe
-The first step is to create the respository,with a read.md. There are a laerge numvber of tutorials on GitHub, Git and repository creation/
-here are some links:
+The first step is to create the respository,with a read.md. There are a laerge numvber of tutorials on GitHub, Git and repository creation 
+Here are some links:
 
 * Video links to learn Git: https://git-scm.com/videos
 * A quick Git reference link: https://git-scrm.com/docs
