@@ -8,4 +8,4 @@ here are some links:
 
 Once you have created your  repository, **with a readme.md** there are a number of ways to uptade the file.One is to simply  edit it by clicking on the pencil looking icon.
 ### SCREEN SHOT: 
-![This is an image](https://myoctocat.com/assets/images/base-octocar.svg)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
